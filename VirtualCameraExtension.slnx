@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VirtualCameraSource/VirtualCameraSource.vcxproj" Id="9e5e18db-e8cd-4e31-8e83-434aed0ef0c0" />
+</Solution>

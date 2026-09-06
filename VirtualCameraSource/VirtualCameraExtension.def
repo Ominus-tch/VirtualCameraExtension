@@ -1,0 +1,7 @@
+LIBRARY VirtualCameraExtension
+
+EXPORTS
+    DllGetClassObject
+    DllCanUnloadNow
+    DllRegisterServer
+    DllUnregisterServer
