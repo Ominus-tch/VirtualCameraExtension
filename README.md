@@ -1,6 +1,6 @@
 # Piano Visualizer Virtual Camera Extension
 
-The Virtual Camera Extension adds virtual camera support to [Piano Visualizer](https://github.com/Ominus-tch/Piano-Visualizer).
+The Virtual Camera Extension adds virtual camera support to [Piano Visualizer](https://github.com/Ominus-tch/PianoVisualizer).
 
 It allows you to use Piano Visualizer's output as a camera in applications such as OBS, Discord, web browsers, and other software that supports camera input.
 
@@ -68,7 +68,7 @@ If an application was already running when the virtual camera was started, you m
 
 ## Related Project
 
-[Piano Visualizer](https://github.com/Ominus-tch/Piano-Visualizer)
+[Piano Visualizer](https://github.com/Ominus-tch/PianoVisualizer)
 
 ## Releases
 
